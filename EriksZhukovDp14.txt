@@ -1,0 +1,51 @@
+Mani sauc Eriks Zhukovs , es esmu no Gruppa DP 1-4 man ir 16 gadi .
+
+>Bailes ir senākās un spēcīgākās cilvēku jūtas, un vecākās un spēcīgākās bailes ir bailes no nezināmā
+'''
+s = "Es macos Rigas Valsts Tehnikuma"
+print s
+
+```
+---
+
+Tas ir manas atzimes par 3 Prieksmetiem
+
+| Prieksmeti    | Atzimes            |
+| ------------- |:------------------:|
+| matematika    | 5                  |
+| krievu valoda | 7                  |
+| anglu valoda  | 9                  |
+
+Man ir stundu saraksta primdien
+
+| Prieksmeti      | Cik bus stunda        |
+| -------------   |:---------------------:|
+| matematika      | 8:30                  |
+| krievu valoda   | 9:15                  |
+| anglu valoda    | 9:55                  |
+| latviesu valoda | 10:30                 |
+| sport valoda    | 11:10                 |
+
+
+___
+
+Man patik sada spele 
+[manaspele]: https://esportsobserver.com/wp-content/uploads/2020/06/Twitch-Top10s.jpg "Viena no milakiem spelem"
+---
+emojize(":smile:")
+
+Es varu uzrakstit kodu : 
+
+Dim S As Double 'summa'
+ S = 0
+ For i = 1 To UBound(arrA) 
+  If arrA(i) < 0 Then S = S + arrA(i)
+ Next i
+
+
+
+
+
+
+
+
